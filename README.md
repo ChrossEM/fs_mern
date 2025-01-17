@@ -1,2 +1,2 @@
 # fs_mern
-# retake of angela yu ain course
+retake of angela yu main course
